@@ -1,3 +1,4 @@
 displayName = Hage Mod
 author = Dank
-version = 1.1
+version = 1.2.0.1
+homepage = https://github.com/dank76/Hage-Mod
