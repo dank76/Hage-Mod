@@ -1,0 +1,3 @@
+displayName = Hage Mod
+author = Dank
+version = 1.1
